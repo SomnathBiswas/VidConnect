@@ -4,7 +4,7 @@ let client = AgoraRTC.createClient({mode:'rtc', codec:"vp8"})
 //#2 here we need to generate a token using agora.io video conferencing API.
 let config = {
     appid:"bd651f47e59d4ffd840410d5e6007736",
-    token:"007eJxTYKhZFHlmS/VO7rBGNSHbU/vnHTzKEuS9wOVSUAhrbFl6+wUFhqQUM1PDNBPzVFPLFJO0tBQLEwMTQ4MU01QzAwNzc2OzVOk9KQ2BjAwK69kZGRkgEMTnYgjLTHHOz8tLTS5hYAAApNgfgw==",
+    token:"007eJxTYLgxNTmM1TS6T2d25FreTSE7Pwue/fB0TcyKlZtZam8k9pYoMCSlmJkappmYp5pappikpaVYmBiYGBqkmKaaGRiYmxubqSy4kdoQyMgw63svAyMUgvhcDGGZKc75eXmpySUMDABLwSK4",
     uid:null,
     channel:"VidConnect",
 }
